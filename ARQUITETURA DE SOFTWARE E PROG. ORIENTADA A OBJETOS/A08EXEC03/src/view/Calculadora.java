@@ -190,54 +190,70 @@ public class Calculadora extends javax.swing.JFrame {
         setTitle("Calculadora");
 
         bt_0.setBackground(new java.awt.Color(0, 0, 0));
+        bt_0.setForeground(new java.awt.Color(255, 255, 255));
         bt_0.setText("0");
 
         bt_1.setBackground(new java.awt.Color(0, 0, 0));
+        bt_1.setForeground(new java.awt.Color(255, 255, 255));
         bt_1.setText("1");
 
         bt_2.setBackground(new java.awt.Color(0, 0, 0));
+        bt_2.setForeground(new java.awt.Color(255, 255, 255));
         bt_2.setText("2");
 
         bt_3.setBackground(new java.awt.Color(0, 0, 0));
+        bt_3.setForeground(new java.awt.Color(255, 255, 255));
         bt_3.setText("3");
 
         bt_4.setBackground(new java.awt.Color(0, 0, 0));
+        bt_4.setForeground(new java.awt.Color(255, 255, 255));
         bt_4.setText("4");
 
         bt_5.setBackground(new java.awt.Color(0, 0, 0));
+        bt_5.setForeground(new java.awt.Color(255, 255, 255));
         bt_5.setText("5");
 
         bt_6.setBackground(new java.awt.Color(0, 0, 0));
+        bt_6.setForeground(new java.awt.Color(255, 255, 255));
         bt_6.setText("6");
 
         bt_7.setBackground(new java.awt.Color(0, 0, 0));
+        bt_7.setForeground(new java.awt.Color(255, 255, 255));
         bt_7.setText("7");
 
         bt_8.setBackground(new java.awt.Color(0, 0, 0));
+        bt_8.setForeground(new java.awt.Color(255, 255, 255));
         bt_8.setText("8");
         bt_8.setToolTipText("");
 
         bt_9.setBackground(new java.awt.Color(0, 0, 0));
+        bt_9.setForeground(new java.awt.Color(255, 255, 255));
         bt_9.setText("9");
         bt_9.setToolTipText("");
 
         bt_clear.setBackground(new java.awt.Color(0, 0, 0));
+        bt_clear.setForeground(new java.awt.Color(255, 255, 255));
         bt_clear.setText("C");
         bt_clear.setToolTipText("");
 
         bt_igual.setBackground(new java.awt.Color(0, 0, 0));
+        bt_igual.setForeground(new java.awt.Color(255, 255, 255));
         bt_igual.setText("=");
 
         bt_mais.setBackground(new java.awt.Color(0, 0, 0));
+        bt_mais.setForeground(new java.awt.Color(255, 255, 255));
         bt_mais.setText("+");
 
         bt_menos.setBackground(new java.awt.Color(0, 0, 0));
+        bt_menos.setForeground(new java.awt.Color(255, 255, 255));
         bt_menos.setText("-");
 
         bt_vezes.setBackground(new java.awt.Color(0, 0, 0));
+        bt_vezes.setForeground(new java.awt.Color(255, 255, 255));
         bt_vezes.setText("X");
 
         bt_divisao.setBackground(new java.awt.Color(0, 0, 0));
+        bt_divisao.setForeground(new java.awt.Color(255, 255, 255));
         bt_divisao.setText("/");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

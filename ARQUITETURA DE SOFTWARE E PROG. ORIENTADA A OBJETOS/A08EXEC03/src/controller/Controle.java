@@ -7,6 +7,8 @@ package controller;
 import model.Divisao;
 import model.Multiplicacao;
 import model.OperacaoMatematica;
+import model.Soma;
+import model.Subtracao;
 import view.Calculadora;
 
 /**
@@ -73,6 +75,18 @@ public class Controle {
         janela.getTxt_display().setText(texto + "9");
     }
     
+    public void soma(){
+        n1 = janela.getTxt_display().getText();
+        calc = new Soma();
+        janela.getTxt_display().setText("");
+    }
+    
+    public void subtracao(){
+        n1 = janela.getTxt_display().getText();
+        calc = new Subtracao();
+        janela.getTxt_display().setText("");
+    }
+    
     public void multiplicacao(){
         n1 = janela.getTxt_display().getText();
         calc = new Multiplicacao ();
@@ -85,5 +99,7 @@ public class Controle {
         janela.getTxt_display().setText("");
     }
     
-    
+    public void clear(){
+        
+    }
 }
