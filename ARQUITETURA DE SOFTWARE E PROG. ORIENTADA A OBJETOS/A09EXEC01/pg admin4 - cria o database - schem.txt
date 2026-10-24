@@ -1,0 +1,5 @@
+pg admin4 -> cria o database -> schemas -> table -> create table -> nome -> ABA colunas -> cria as colunas -> save -> botão direito em cima da tabela criada -> vie/edit dará (ALL ROWS) -> cria o projeto no net beans -> add o pacote 
+
+hack -> faz o login, depois erra a senha, depois apaganha o campo senha e adc no usuário '--.
+
+sem saber usuário e senha no usuário 'or 1=1--
